@@ -1,0 +1,6 @@
+<webscript>
+    <shortname>Demo Summit AMP</shortname>
+    <description>Summit demo hello world</description>
+    <url>/summit/hello</url>
+    <authentication>user</authentication>
+</webscript>
