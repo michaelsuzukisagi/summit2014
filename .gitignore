@@ -1,2 +1,6 @@
 alf_data_dev
 target
+*.classpath
+*.projet
+*.settings
+bin
