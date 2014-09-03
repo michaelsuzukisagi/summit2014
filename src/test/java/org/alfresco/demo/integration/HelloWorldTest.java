@@ -1,4 +1,4 @@
-package org.alfresco.demo.test.integration;
+package org.alfresco.demo.integration;
 
 
 import static org.junit.Assert.assertEquals;
